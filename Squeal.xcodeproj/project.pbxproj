@@ -822,6 +822,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 62AC953F1E99A7C500C7E83A;
@@ -1991,7 +1992,7 @@
 				"SWIFT_INCLUDE_PATHS[sdk=watchos*]" = "$(SRCROOT)/Clibsqlite3/watchOS";
 				"SWIFT_INCLUDE_PATHS[sdk=watchsimulator*]" = "$(SRCROOT)/Clibsqlite3/watchOS-Simulator";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 4;
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -2051,7 +2052,7 @@
 				"SWIFT_INCLUDE_PATHS[sdk=watchos*]" = "$(SRCROOT)/Clibsqlite3/watchOS";
 				"SWIFT_INCLUDE_PATHS[sdk=watchsimulator*]" = "$(SRCROOT)/Clibsqlite3/watchOS-Simulator";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 3.0;
+				SWIFT_VERSION = 4.2;
 				TARGETED_DEVICE_FAMILY = 4;
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
